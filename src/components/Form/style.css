@@ -1,0 +1,30 @@
+.form {
+  width: 600px;
+  height: 600px;
+  display: grid;
+  justify-content: center;
+}
+
+.form__heightInput > input {
+  width: 292px;
+  height: 25px;
+  margin-top: 20px;
+}
+
+.form__ageSelect {
+  width: 300px;
+  height: 30px;
+  margin-top: 20px;
+}
+
+.form__skiTypeSelect {
+  width: 300px;
+  height: 30px;
+  margin-top: 20px;
+}
+
+.form__button {
+  width: 300px;
+  height: 30px;
+  margin-top: 20px;
+}
